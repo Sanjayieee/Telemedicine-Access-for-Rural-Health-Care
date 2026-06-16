@@ -1,4 +1,4 @@
-# Swasthya Punjab Web App
+# Telemedicine Access for Rural Health Care
 
 Healthcare dashboard & AI-assisted symptom checker built with Next.js 15, Turbopack, TailwindCSS, Genkit (Gemini), and Radix UI.
 
